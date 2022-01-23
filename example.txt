@@ -1,0 +1,4 @@
+ 
+ 
+ if (!message.channel.moderation) {
+      message.react('🛠');}
